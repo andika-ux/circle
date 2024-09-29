@@ -1,0 +1,5 @@
+Petunjuk Penggunaan:
+
+1. Pastikan koneksi internet terhubung
+2. Silakan klik index.html
+3. Lakukan navigasi sesuai dengan menu yang ada
